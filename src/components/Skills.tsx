@@ -30,7 +30,7 @@ const Skills = () => {
       <div className="container mx-auto">
         <div className="text-center mb-12 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            Skills & <span className="gradient-primary bg-clip-text text-transparent">Expertise</span>
+            Skills & <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">Expertise</span>
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
             A comprehensive toolkit for building intelligent systems and solving complex problems

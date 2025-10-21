@@ -39,7 +39,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between">
           <button
             onClick={() => scrollToSection('home')}
-            className="text-2xl font-bold gradient-primary bg-clip-text text-transparent hover:opacity-80 transition-smooth"
+            className="text-2xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent hover:opacity-80 transition-smooth"
           >
             MD Khalid
           </button>

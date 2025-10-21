@@ -60,7 +60,7 @@ const Contact = () => {
       <div className="container mx-auto max-w-5xl">
         <div className="text-center mb-12 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            Get In <span className="gradient-primary bg-clip-text text-transparent">Touch</span>
+            Get In <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">Touch</span>
           </h2>
           <p className="text-muted-foreground text-lg">
             Let's connect and discuss opportunities in AI and Machine Learning
