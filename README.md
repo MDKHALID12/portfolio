@@ -1,6 +1,6 @@
-# Welcome to your Lovable project
+# Welcome to your Portfolio
 
-## Project info
+## Portfolio info
 
 **URL**: https://mdkhalid.netlify.app/
 
