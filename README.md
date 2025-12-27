@@ -2,13 +2,12 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/302f1339-8635-48dc-87fd-3101a4330eec
+**URL**: https://mdkhalid.netlify.app/
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/302f1339-8635-48dc-87fd-3101a4330eec) and start prompting.
 
